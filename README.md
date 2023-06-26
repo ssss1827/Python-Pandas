@@ -1,2 +1,2 @@
-# Python-Pandas
-데이터 전처리를 위해 Pandas를 공부합니다.
+# data analysis
+python을 통해 데이터를 분석합니다.
